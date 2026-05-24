@@ -21,7 +21,7 @@ This allows me to keep working on!.
 
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 day ago)
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 day ago)
-- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (1 week ago)
+- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A secure CLI password manager that relies on a *Zero-Knowledge Architecture*. This means the application itself doesn't actually know your secrets, and your master password is never stored anywhere on your hard drive.
 
 #### 📜 My recent blog posts
 
